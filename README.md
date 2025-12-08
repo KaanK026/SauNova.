@@ -46,6 +46,10 @@ Client: `saunova_flutter/` Flutter app for chat, dashboard, sessions, social.
 
 STILL UNDER CONSTRUCTION
 
+Incoming Changes:
+-Marketing/Advertisement video
+-Video demostration of the app in use
+
 Possible Changes:
 - RAG quality: top-k hit rate/MRR on a PDF-derived Q&A set; % answers citing retrieved docs; latency breakdown.  
 - Recommendation: predicted vs actual plots, MAE per target, learning curves, feature/goal distributions.  

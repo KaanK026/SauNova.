@@ -18,7 +18,7 @@ try:
     from backend.LLM.config import model_name
     LLM_MODEL_NAME = model_name
 except ImportError:
-    LLM_MODEL_NAME = "gpt-3.5-turbo" # Example fallback
+    LLM_MODEL_NAME = "gpt-3.5-turbo"
 
 # CORS Origins
 CORS_ALLOW_ORIGINS = [
@@ -27,5 +27,5 @@ CORS_ALLOW_ORIGINS = [
     "http://127.0.0.1:19006",
     "http://localhost:3000",
     "exp://*",
-    "*",  # Adjust for production
+    "*",  
 ]

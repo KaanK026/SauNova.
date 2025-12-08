@@ -43,6 +43,10 @@ Client: `saunova_flutter/` Flutter app for chat, dashboard, sessions, social.
 ---
 
 ## 📊 Demonstration Ideas
+
+STILL UNDER CONSTRUCTION
+
+Possible Changes:
 - RAG quality: top-k hit rate/MRR on a PDF-derived Q&A set; % answers citing retrieved docs; latency breakdown.  
 - Recommendation: predicted vs actual plots, MAE per target, learning curves, feature/goal distributions.  
 - Session telemetry: dual-axis time series with target setpoints, time-in-range %, ramp-up rates; attach LLM-generated briefs.  

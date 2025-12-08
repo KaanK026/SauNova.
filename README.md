@@ -42,7 +42,7 @@ Client: `saunova_flutter/` Flutter app for chat, dashboard, sessions, social.
 
 ---
 
-## 📊 Demonstration Ideas
+## 📊 Demonstration
 
 STILL UNDER CONSTRUCTION
 

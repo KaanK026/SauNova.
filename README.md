@@ -12,6 +12,8 @@
 
 ---
 
+Note: This repository has been moved here from another one due to privacy concerns. The current version here includes all the recent updates and is the main repository.
+
 ## 🎯 Project Overview
 Saunova is an AI-first sauna companion. The backend combines retrieval-augmented generation over sauna science PDFs with a PyTorch model that personalizes temperature, humidity, and session length. A Flutter client consumes the APIs, and a lightweight TypeScript bridge handles auth and chat relay.
 

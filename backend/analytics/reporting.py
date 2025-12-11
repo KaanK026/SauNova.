@@ -1,12 +1,4 @@
-"""
-Utility scripts to generate supporting graphs and metrics for Saunova.
-
-Run examples:
-    python backend/analytics/reporting.py --csv backend/predictive_model/optimal_sauna_settings_with_height.csv
-    python backend/analytics/reporting.py --session-json /path/to/session.json
-
-Outputs are written under backend/analytics/outputs/ by default.
-"""
+#Utility scripts to generate supporting graphs and metrics for Saunova.
 
 from __future__ import annotations
 
